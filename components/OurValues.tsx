@@ -22,6 +22,9 @@ export default function OurValues() {
         <blockquote className="text-center italic text-gray-600 max-w-2xl mx-auto">
           "Integrity is what we do, what we say, and what we say we do" – Don Galer
         </blockquote>
+        <p className="text-gray-600 mb-4">
+          &ldquo;Our commitment to your mental health journey is unwavering. We believe in creating a safe, nurturing environment where healing can flourish.&rdquo;
+        </p>
       </div>
     </section>
   )
