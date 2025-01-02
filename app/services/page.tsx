@@ -1,5 +1,5 @@
-import Header from '../components/Header'
-import Footer from '../components/Footer'
+import Header from '@/components/Header'
+import Footer from '@/components/Footer'
 import { BookOpen, Users, Briefcase } from 'lucide-react'
 
 export default function OurServices() {
