@@ -12,7 +12,7 @@ export default function Contact() {
             <h1 className="text-3xl font-bold text-center text-blue-800 mb-8">Contact Us</h1>
             <div className="max-w-2xl mx-auto bg-white p-8 rounded-lg shadow-md">
               <p className="text-gray-600 mb-6 text-center">
-                We&apos;re here to help. Please don&apos;t hesitate to reach out with any questions or concerns.
+                We are here to help. Please don not hesitate to reach out with any questions or concerns.
               </p>
               <div className="space-y-4">
                 <div className="flex items-center">
